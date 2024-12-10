@@ -45,7 +45,9 @@ Server-side
 + Cannot be bypassed by client commands
 + Main to enforce server-side policy on Git repos
 
+/usr/share/git-core/templates/hooks/
 
+https://github.com/learntobuild-dev/git-hook
 
 
 
